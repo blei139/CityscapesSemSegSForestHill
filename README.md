@@ -23,4 +23,9 @@ https://youtu.be/p6L09EcZ2VU
 
 https://youtu.be/C43aYr_Az2Y
 
-In the mean time, third round of training is starting, too.
+On 11/30/17, I see good improvements in the road augmentation, but I still need somemore training.
+Here is the youtube link:
+
+https://youtu.be/GYQvYT_BQ7U
+
+In the mean time, fourth round of training is starting, too.
